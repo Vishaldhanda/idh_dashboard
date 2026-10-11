@@ -1,5 +1,0 @@
-__pycache__/
-*.pyc
-catboost_info/
-artifacts/
-*.log
